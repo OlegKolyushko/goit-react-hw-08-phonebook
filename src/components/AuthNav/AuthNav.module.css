@@ -1,0 +1,9 @@
+.link {
+    text-decoration: none;
+    color: grey;
+}
+.activeLink {
+    text-decoration: none;
+    color: indianred;
+    font-size: 18px;
+}
